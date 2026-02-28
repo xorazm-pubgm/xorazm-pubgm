@@ -36,7 +36,7 @@
 | 🆔 **Global ID** | `51484051001` |
 | 👤 **In-Game Name** | `Xorazm±GU¢H` |
 | 🛡 **Current Rank** | `Ace Dominator` |
-| ⚔️ **Role** | `IGL / Main Rusher` |
+| ⚔️ **Role** | `IGL(In-Game Leader) / Main Rusher` |
 
 ---
 
